@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ucsmsec</title>
-    <link>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/</link>
+    <link>https://kh4nt7.github.io/post/</link>
     <description>Recent content in Posts on ucsmsec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kh4nt7.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>https://kh4nt7.github.io/post/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kh4nt7.github.io/post/about/</guid>
+      <description>Welcome to My Fellow Hackers My name is Khaing Myel Khant and I&amp;rsquo;m the captain of ucsmsec ctf team. I made this about to show my team members a static website as a demo.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff and after doing tons of things, we can swagg :P.
+I will add more on this website weeks by week.</description>
+    </item>
+    
+    <item>
       <title>Elliot Whispers</title>
-      <link>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/hello/</link>
+      <link>https://kh4nt7.github.io/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/hello/</guid>
+      <guid>https://kh4nt7.github.io/post/hello/</guid>
       <description>This is a test post .
 You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!
 You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked! blablablablablablablablablablablablablablablablablablablablablablablablablablabla blablablablablablablablablablablablablablablablablablablablablablablablablablabla</description>
@@ -24,10 +35,10 @@ You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been Hacked!You&amp;rsquo;ve been 
     
     <item>
       <title>strings - Points: 100</title>
-      <link>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/picowu_warmup/</link>
+      <link>https://kh4nt7.github.io/post/picowu_warmup/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/picowu_warmup/</guid>
+      <guid>https://kh4nt7.github.io/post/picowu_warmup/</guid>
       <description>We first download the file from file
 wget --no-check-certificate https://2018shell.picoctf.com/static/aead5528718d7c26733c42fadab63b6a/strings --2019-03-30 22:04:59-- https://2018shell.picoctf.com/static/aead5528718d7c26733c42fadab63b6a/strings  Check the file type
 khant@DESKTOP-DMG2EMG:~/ctfs/picoCTF/strings$ file strings strings: ELF 64-bit LSB executable, x86-64, version 1 (SYSV)  We can see this after running this

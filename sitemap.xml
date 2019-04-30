@@ -3,43 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/about/</loc>
+    <loc>https://kh4nt7.github.io/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/showcase/</loc>
+    <loc>https://kh4nt7.github.io/post/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kh4nt7.github.io/test/test/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kh4nt7.github.io/writeups/showcase/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/hello/</loc>
+    <loc>https://kh4nt7.github.io/post/hello/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/picowu_warmup/</loc>
+    <loc>https://kh4nt7.github.io/post/picowu_warmup/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/categories/</loc>
+    <loc>https://kh4nt7.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/post/</loc>
-    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
+    <loc>https://kh4nt7.github.io/post/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/tags/</loc>
+    <loc>https://kh4nt7.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kh4nt99/kh4nt99.github.io/blob/master/</loc>
+    <loc>https://kh4nt7.github.io/test/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kh4nt7.github.io/writeups/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kh4nt7.github.io/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
